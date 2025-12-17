@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+nids_env/
+core/nids_env/
+core/nids_env_py310/
+venv/
+env/
+ENV/
+
+# Model files (large binary files)
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
+*.pcap
+*.csv
+
+# Temporary files
+*.tmp
+*.bak
