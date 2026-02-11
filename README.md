@@ -240,10 +240,6 @@ sniff(prn=packet_handler, iface="eth0")
 3. Add tests for new functionality
 4. Submit pull request
 
-## 📄 License
-
-This project is for educational and research purposes. Please ensure compliance with your organization's security policies before deploying in production environments.
-
 ## 🔮 Future Enhancements
 
 - [ ] Support for additional datasets (KDD Cup, NSL-KDD)
@@ -254,5 +250,3 @@ This project is for educational and research purposes. Please ensure compliance 
 - [ ] Mobile app for alerts and monitoring
 
 ---
-
-**⚠️ Security Note**: This is a demonstration system. For production use, ensure proper security hardening, access controls, and compliance with your organization's security policies.
